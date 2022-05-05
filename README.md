@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WoutOnGitHub
 - 👀 I’m interested in Web3 and trading
 - 🌱 I’m currently learning Haskell
-- 📫 How to reach me "woltervanderhoef@gmail.com"
+- 📫 How to reach me "woutvanderhoef@gmail.com"
 
 <!---
 WoutOnGitHub/WoutOnGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
