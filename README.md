@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WoutOnGitHub
 - 👀 I’m interested in Web3 and trading
-- 🌱 I’m currently learning Haskell
+- 🌱 More cool project coming soon :D (Did you ever wonder if you can train an AI to trade cryptocurrencies?)
 - 📫 How to reach me "woutvanderhoef@gmail.com"
 
 <!---
